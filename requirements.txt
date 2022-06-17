@@ -1,0 +1,7 @@
+typer==0.3.2
+colorama==0.4.4
+shellingham==1.4.0
+pytest==6.2.4
+strictyaml==1.6.1
+prometheus-api-client==0.5.1
+pyarrow==8.0.0

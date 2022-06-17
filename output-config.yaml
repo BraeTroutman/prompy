@@ -1,0 +1,10 @@
+format: PARQUET
+name: out.pq
+storage:
+  type: s3
+  config:
+    bucket: bucket-name
+    endpoint: url
+    access_key: key
+    secret_key: key
+
